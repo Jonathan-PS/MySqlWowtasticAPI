@@ -1,0 +1,19 @@
+# Insert new person
+curl -i -H "Content-Type: application/json" -X POST -d '{
+   "firstName": "Jona",
+   "lastName": "Postan",
+   "email": "Sogn@stsdfsf.no",
+   "username": "Minimoi",
+   "password": "12345"
+}' localhost:8080/user
+
+
+# Insert new character
+curl -i -H "Content-Type: application/json" -X POST -d '{
+   "userId": 8,
+   "characterName": "XxKillerxX",
+   "className": "rogue",
+   "level": 40
+}' localhost:8080/character
+
+

@@ -6,7 +6,7 @@ https://github.com/Jonathan-PS/MySqlWowtasticAPI
 
 ### Localhost
 1. clone project and import into intellij
-2. Setup MySql dabatase through mamp, using the wowtastic.db file
+2. Setup MySql dabatase through mamp, using the wowtastic.sql file
 3. Run 
 
 

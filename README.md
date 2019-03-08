@@ -22,3 +22,6 @@ https://github.com/Jonathan-PS/MySqlWowtasticAPI
   7. http://localhost:8080/class-ability
 - and POST endpoints through curl
   1. use curl commands provided in docs/curl-commands
+
+
+Note: Runs on JDK 8 (1.8.0_201)

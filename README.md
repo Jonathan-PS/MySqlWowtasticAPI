@@ -2,6 +2,8 @@
 # MySqlWowtasticAPI
 _author Jonathan Stang_
 
+Also on Heroku: https://wowtastic-api-jps.herokuapp.com/user
+
 https://github.com/Jonathan-PS/MySqlWowtasticAPI
 
 ### Localhost
